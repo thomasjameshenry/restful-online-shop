@@ -1,0 +1,203 @@
+{
+    "count": 7,
+    "customers": [
+        {
+            "_id": "5eaf171090e3fb3e6c481da7",
+            "Title": "Mrs",
+            "fname": "Luna",
+            "lname": "Weeks",
+            "email": "LWeeks@hotmail.com",
+            "phone": {
+                "_id": "5eaee6798cbb0918bc6654dd",
+                "manufacturer": "Huawei",
+                "model": "Huawei P30 Lite",
+                "price": "£249.24"
+            },
+            "mobile": "08158089",
+            "homeAdd": "Rosemary House,Rosemary House,Clonmany,County Kerry,I21RT60",
+            "shipAdd": "Rosemary House,Rosemary House,Clonmany,County Kerry,I21RT60",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf171090e3fb3e6c481da7"
+            }
+        },
+        {
+            "_id": "5eaf18b75de2bf281c1c182e",
+            "Title": "Miss",
+            "fname": "Isaiah",
+            "lname": "Chung",
+            "email": "Isaiah73Chung@yahoo.co.uk",
+            "phone": {
+                "_id": "5eaee6618cbb0918bc6654dc",
+                "manufacturer": "Google",
+                "model": "Google Pixel 3",
+                "price": "£315.24"
+            },
+            "mobile": "08496604",
+            "homeAdd": "Seren Cottage, Blackberry Cottage, Rathmullan, County Laois, B35MY74",
+            "shipAdd": "Cedar Cabin, Crows Nest, Blessington, County Dublin, C12SU54",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf18b75de2bf281c1c182e"
+            }
+        },
+        {
+            "_id": "5eaf18c45de2bf281c1c182f",
+            "Title": "Mr",
+            "fname": "Carter",
+            "lname": "Jones",
+            "email": "Carter47Jones@gmail.com",
+            "phone": {
+                "_id": "5eaee68a8cbb0918bc6654de",
+                "manufacturer": "Samsung",
+                "model": "J3",
+                "price": "£974.12"
+            },
+            "mobile": "08119921",
+            "homeAdd": "Chimney Cottage, Heatherbell, Flagmount, County Wicklow, R25MQ20",
+            "shipAdd": "Court Lodge, Pine View, Abbeylara, County Waterford, H16JS29",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf18c45de2bf281c1c182f"
+            }
+        },
+        {
+            "_id": "5eaf18fe5de2bf281c1c1830",
+            "Title": "Mr",
+            "fname": "Camila",
+            "lname": "Lawrence",
+            "email": "Camila.Lawrence12@yahoo.co.uk",
+            "phone": {
+                "_id": "5eaee6618cbb0918bc6654dc",
+                "manufacturer": "Google",
+                "model": "Google Pixel 3",
+                "price": "£315.24"
+            },
+            "mobile": "08325293",
+            "homeAdd": "Elmsgate, Ardoran, Loughlinstown, County Kerry, E11WS37",
+            "shipAdd": "Oak Cottage, Rosemary House, Loughlinstown, County Fermanagh, G26XV89",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf18fe5de2bf281c1c1830"
+            }
+        },
+        {
+            "_id": "5eaf19225de2bf281c1c1831",
+            "Title": "Miss",
+            "fname": "Skylar",
+            "lname": "Weeks",
+            "email": "Skylar.Weeks@mumail.ie",
+            "phone": {
+                "_id": "5eaee6ad8cbb0918bc6654df",
+                "manufacturer": "Huawei",
+                "model": "Huawei P30 Lite",
+                "price": "£978.05"
+            },
+            "mobile": "08361754",
+            "homeAdd": "Robins Hedge, Oak Cottage, Eadestown, County Kildare, P99TH13",
+            "shipAdd": "Sierra Lodge, Dreamwood       Stillness, Timoleague, County Donegal, Y82VB18",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf19225de2bf281c1c1831"
+            }
+        },
+        {
+            "_id": "5eaf19455de2bf281c1c1832",
+            "Title": "Ms",
+            "fname": "Owen",
+            "lname": "Steele",
+            "email": "Owen.Steele51@hotmail.com",
+            "phone": {
+                "_id": "5eaee6798cbb0918bc6654dd",
+                "manufacturer": "Huawei",
+                "model": "Huawei P30 Lite",
+                "price": "£249.24"
+            },
+            "mobile": "08659648",
+            "homeAdd": "Riverside, Mulberry, Goresbridge, County Cavan, D52OU66",
+            "shipAdd": "Welcombe, Eastholme, Abbeyknockmoy, County Carlow, C50ZF85",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf19455de2bf281c1c1832"
+            }
+        },
+        {
+            "_id": "5eaf19675de2bf281c1c1833",
+            "Title": "Mr",
+            "fname": "William",
+            "lname": "Desai",
+            "email": "William.Desai@yahoo.co.uk",
+            "phone": {
+                "_id": "5eaee6bf8cbb0918bc6654e0",
+                "manufacturer": "Apple",
+                "model": "Iphone 7",
+                "price": "£178.02"
+            },
+            "mobile": "08887765",
+            "homeAdd": "Ardoran, Brookvale, Eadestown, County Cork, K59XZ40",
+            "shipAdd": "Mile End, The Burrow, Clonlara, County Sligo, U68ZE72",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/customers/5eaf19675de2bf281c1c1833"
+            }
+        }
+    ]
+}
+///////////////////////////////////////////////////////////////////////////////////////////
+
+{
+        "_id" : ObjectId("5eaee6348cbb0918bc6654db"),
+        "manufacturer" : "Samsung",
+        "model" : "A7",
+        "price" : "£638.31",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee6618cbb0918bc6654dc"),
+        "manufacturer" : "Google",
+        "model" : "Google Pixel 3",
+        "price" : "£315.24",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee6798cbb0918bc6654dd"),
+        "manufacturer" : "Huawei",
+        "model" : "Huawei P30 Lite",
+        "price" : "£249.24",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee68a8cbb0918bc6654de"),
+        "manufacturer" : "Samsung",
+        "model" : "J3",
+        "price" : "£974.12",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee6ad8cbb0918bc6654df"),
+        "manufacturer" : "Huawei",
+        "model" : "Huawei P30 Lite",
+        "price" : "£978.05",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee6bf8cbb0918bc6654e0"),
+        "manufacturer" : "Apple",
+        "model" : "Iphone 7",
+        "price" : "£178.02",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee6d08cbb0918bc6654e1"),
+        "manufacturer" : "Google",
+        "model" : "Google Pixel 3",
+        "price" : "£127.81",
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("5eaee6e78cbb0918bc6654e2"),
+        "manufacturer" : "Huawei",
+        "model" : "Huawei Y9 Prime 2019",
+        "price" : "£687.47",
+        "__v" : 0
+}
