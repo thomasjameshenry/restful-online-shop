@@ -8,7 +8,7 @@ const customerRoutes = require('./api/routes/customers');
 const phoneRoutes = require('./api/routes/phones');
 
 
-mongoose.connect('mongodb+srv://dbThomas:Satheljo12rwo1491@cluster0-lzrbo.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('MONGODB CONNECTION URL', {
   useMongoClient : true, useUnifiedTopology: true, useNewUrlParser: true
 });
 //https://stackoverflow.com/questions/51862570/mongoose-why-we-make-mongoose-promise-global-promise-when-setting-a-mongoo
